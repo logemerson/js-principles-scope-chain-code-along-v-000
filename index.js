@@ -1,3 +1,1 @@
-function customerName(){
-  customerName = 'bob;'
-}
+customerName = 'bob';
