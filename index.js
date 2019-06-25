@@ -1,3 +1,3 @@
 function customerName(){
-  var customerName = 'bob;'
+  customerName = 'bob;'
 }
