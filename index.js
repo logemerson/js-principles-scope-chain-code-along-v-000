@@ -1,1 +1,1 @@
-const customerName = 'bob;'
+var customerName = 'bob;'
